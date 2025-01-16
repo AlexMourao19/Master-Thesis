@@ -27,6 +27,6 @@ This repository aims to:
 - Highlight best practices for optimizing and deploying ML models efficiently.
 
 ## 🔗 Additional Resources
-- [TensorFlow Lite](https://www.tensorflow.org/lite)
+- [TensorFlow Lite](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/lite)
 - [ONNXRuntime](https://onnxruntime.ai/)
 - [PyTorch](https://pytorch.org/)
